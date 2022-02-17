@@ -1,9 +1,39 @@
-# Note
+## About cloudflared 
+
+```
+Cloudflare Tunnel requires the installation of a lightweight server-side daemon, cloudflared, to connect your infrastructure to Cloudflare. cloudflared is an open source project maintained by Cloudflare.
+
+```
+### This script can help to install cloudflared without Error :)
+
+## Install
+```
+wget https://github.com/darkhunter141/cloudflared/releases/download/dh141/setup.py
+
+python3 setup.py
+
+```
+## Useges :
+
+### For Termux :
+
+```
+termux-chroot cldf --help
+
+```
+### For Kali and Other Linux Distro :
+
+```
+cldf
+
+```
+
+## Note
 
 <li>This Is Free Tool By Team Dark Hunter 141
 <li>Dont Try Sell It Cuz It's Fucking Free
 
-# Good Bye Bro 🙂
+## Good Bye Bro 🙂
 
 <br>
 <h3> It Provide only for legal activities. If You Misuse it we are not responsible for this</h3>
