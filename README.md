@@ -20,13 +20,11 @@ python3 setup.py
 
 ```
 termux-chroot cldf --help
-
 ```
 ### For Kali and Other Linux Distro :
 
 ```
-cldf
-
+cldf --help
 ```
 
 ## Note
